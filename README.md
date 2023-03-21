@@ -1,6 +1,8 @@
 # Cálculo Numérico
 
-# Contenido
+# Contenido:
+
+# Introducción:
 
 # Tema 1:
 
